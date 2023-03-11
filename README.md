@@ -3,9 +3,9 @@
 #Repositorio dedicado al proyecto de severidad de reclamaciones para la materia de Introducción a la Inteligencia Artificial
 
 ## Miembros del grupo
-* YOHEL OSVALDO PEREZ GARCIA, CC., Ingeniería de Sistemas
+* YOHEL OSVALDO PEREZ GARCIA, CC.1035921408, Ingeniería de Sistemas
 * TATIANA ELIZABETH SÁNCHEZ SANIN, CC. 1125348235, Ingeniería de Sistemas
-* DANIELA ANDREA PAVAS BEDOYA, CC, Ingeniería de Sistemas
+* DANIELA ANDREA PAVAS BEDOYA, CC. 1192741700, Ingeniería de Sistemas
 
 ## Datos
 Los datos del proyecto vienen de la competición [Allstate State Claims Severity](https://www.kaggle.com/competitions/allstate-claims-severity/data). Los pasos para hacerlos disponibles en google collab son los siguientes:  
