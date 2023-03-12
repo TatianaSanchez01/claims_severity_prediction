@@ -1,6 +1,6 @@
 ## Proyecto Claims Severity Prediction
 
-#Repositorio dedicado al proyecto de severidad de reclamaciones para la materia de Introducción a la Inteligencia Artificial
+Repositorio dedicado al proyecto de severidad de reclamaciones para la materia de Introducción a la Inteligencia Artificial
 
 ## Miembros del grupo
 * YOHEL OSVALDO PEREZ GARCIA, CC.1035921408, Ingeniería de Sistemas
