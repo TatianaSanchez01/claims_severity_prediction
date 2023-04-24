@@ -15,8 +15,18 @@ Ejecutar las siguientes lineas de comando
   !pip install kaggle
   
   from google.colab import files 
-  files.upload() ##Entregar el token .json que provee la página de Kaggle
+  files.upload()
 ```
+Entregar el token .json que provee la página de Kaggle y continuar ejecutando las siguientes lineas para descargar los datasets
+
+```
+  ! mkdir ~/.kaggle
+  ! cp kaggle.json ~/.kaggle/
+  ! chmod 600 ~/.kaggle/kaggle.json
+  !kaggle competitions download -c allstate-claims-severity
+  !unzip allstate-claims-severity.zip
+```
+
 
 ## Videos
 
