@@ -26,7 +26,8 @@ Los datos del proyecto vienen de la competición [Allstate State Claims Severity
 
 ![image](https://user-images.githubusercontent.com/55060788/224441239-d8942aff-42d2-49aa-8add-79efcedb486e.png)  
 
-
+  !comando
+  !comando
 
 ## Videos
 
