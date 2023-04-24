@@ -10,14 +10,24 @@ Repositorio dedicado al proyecto de severidad de reclamaciones para la materia d
 ## Datos
 Los datos del proyecto vienen de la competición [Allstate State Claims Severity](https://www.kaggle.com/competitions/allstate-claims-severity/data). Los pasos para hacerlos disponibles en google collab son los siguientes:  
 
-Ejecutar las siguientes lineas de comando
+1. Estando logueado en la cuenta de Kaggle, irse a Settings y dar click en "Create New Token":  
+
+![image](https://user-images.githubusercontent.com/55060788/233893979-2d67dfe3-432b-43d0-8682-3977f63827c3.png)
+
+Después de dar click, se descargará un archivo llamado Kaggle.json
+
+2. En el notebook de google Collab ejecutar las siguientes lineas de comando:
 ```
   !pip install kaggle
   
   from google.colab import files 
   files.upload()
 ```
-Entregar el token .json que provee la página de Kaggle y continuar ejecutando las siguientes lineas para descargar los datasets
+Luego dar click en el boton "Elegir archivos" para cargar el archivo .json
+
+![image](https://user-images.githubusercontent.com/55060788/233894298-1c75936e-c9ab-4c9d-8264-da97fa2920e0.png)
+
+3. Por ultimo ejecutar las siguientes lineas de codigo:
 
 ```
   ! mkdir ~/.kaggle
@@ -30,5 +40,5 @@ Entregar el token .json que provee la página de Kaggle y continuar ejecutando l
 
 ## Videos
 
-[Video entrega 1]()  
+[Video entrega 1](https://youtu.be/wNEXl7stYR4)  
 [Video entrega 2]()
